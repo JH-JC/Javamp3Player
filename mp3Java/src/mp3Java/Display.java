@@ -32,8 +32,6 @@ public class Display {
 	
 	private File songs;
 
-	
-	
 	/**
 	 * Launch the application.
 	 */
